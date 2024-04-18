@@ -19,6 +19,7 @@ The data are MC generated to simulate registration of high energy gamma particle
    h = hadron (background): 6688
 
 #FLOW
+
 1: One-hot encoding - changing the datatype of target variable
 2: Visualization (Plotting histograms)
 3: Training, Validation and Test datasets distribution.
